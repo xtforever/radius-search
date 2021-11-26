@@ -5,7 +5,7 @@ it can calculate the distance beetween two geographic coordinats and it
 can do a fast search on nearby coordinates to do a radius search.
 The program reads commands from stdin. the commands are:
 
-- u <postal-code> <radius-km>
+- u postal-code radius-km
 - p <postal-code>
 - r <lon> <lat> <radius-km>
 
